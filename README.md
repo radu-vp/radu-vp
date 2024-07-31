@@ -34,5 +34,7 @@ me.print_socials()
 ```
 
 ![radu-vp's Stats](https://github-readme-stats.vercel.app/api?username=radu-vp&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
 ![radu-vp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=radu-vp&theme=dark&hide_border=false)
+
 ![radu-vp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radu-vp&theme=dark&show_icons=true&hide_border=false&layout=compact)
