@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=16&pause=1000&color=03A062&center=true&vCenter=true&width=435&lines=Hello%2C+friend.)](https://git.io/typing-svg)
+
+</div>
 
 ```python
 #!/usr/bin/python3
@@ -33,8 +37,12 @@ me.print_greet()
 me.print_socials()
 ```
 
+<div align="center">
+
 ![radu-vp's Stats](https://github-readme-stats.vercel.app/api?username=radu-vp&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![radu-vp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=radu-vp&theme=dark&hide_border=false)
 
 ![radu-vp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radu-vp&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+</div>
