@@ -20,12 +20,12 @@ class AboutMe:
         self.mode = "🌜🦉"
         self.challenge = "To catch them all."
         self.links = {"Email": "n/a",
-                    "TryHackMe": "tryhackme.com/p/radu.popa",
-                    "HackTheBox": "app.hackthebox.com/profile/1434590"}
+                      "TryHackMe": "tryhackme.com/p/radu.popa",
+                      "HackTheBox": "app.hackthebox.com/profile/1434590"}
 
     def print_greet(self):
         print(f"👋 Hi there, I am {self.name}!\n"
-            f"I am currently working as a {self.role}.")
+              f"I am currently working as a {self.role}.")
 
     def print_socials(self):
         print("You can find me on the following platforms:")
